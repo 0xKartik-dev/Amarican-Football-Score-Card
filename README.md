@@ -1,14 +1,14 @@
 # AmaricanFootballScores
 
-Specifications used for developing:
+Specifications used for developing:<br />
 
-Android Platform Version :5.0 Lollipop 
-API Level : 21
+Android Platform Version :5.0 Lollipop <br />
+API Level : 21 <br />
 
-Important Notes:
+Important Notes:<br />
 
-Made changes in the following files for the proper output:
-1)colors.xml -> custom colors are used .
+Made changes in the following files for the proper output:<br />
+1)colors.xml -> custom colors are used .<br />
 2)strings.xml -> All the strings are specified in this folder for removinig contentDescription Warning.
 3)styles.xml -> AppTheme Parent has been changed from "Theme.AppCompat.Light.DarkActionBar" to "Base.Theme.AppCompat.Light.DarkActionBar"
              -> Customised style has been used for changing the default color of the Widget 
