@@ -1,7 +1,7 @@
 # AmaricanFootballScores
 
 Specifications used for developing:<br />
-
+Android Studio Version : 3.1.4 <br />
 Android Platform Version :5.0 Lollipop <br />
 API Level : 21 <br />
 
